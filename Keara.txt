@@ -5,3 +5,5 @@ Astro
 Roxy
 Ella Fitzgerald
 Jackson
+Goober
+Poofy
